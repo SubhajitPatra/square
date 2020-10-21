@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603269385 source:c:\users\user\documents\projects\square\main.c
+	<stdio.h>
+	<stdlib.h>
+
